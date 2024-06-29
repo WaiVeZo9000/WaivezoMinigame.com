@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/WaivezoMinigame.com/static/css/main.73f806f5.css",
-    "main.js": "/WaivezoMinigame.com/static/js/main.bd37fb1c.js",
-    "static/js/453.064f2cbb.chunk.js": "/WaivezoMinigame.com/static/js/453.064f2cbb.chunk.js",
-    "static/media/cover.png": "/WaivezoMinigame.com/static/media/cover.b35cfd2810870e019e99.png",
-    "static/media/shield-1.png": "/WaivezoMinigame.com/static/media/shield-1.a961da9569e66174ca3b.png",
-    "static/media/defaultProfile.png": "/WaivezoMinigame.com/static/media/defaultProfile.8973ad91ff3039f96c89.png",
-    "static/media/helmet-1.png": "/WaivezoMinigame.com/static/media/helmet-1.d082cb3c8e66546d8921.png",
-    "static/media/potion-1.png": "/WaivezoMinigame.com/static/media/potion-1.94e34273991220b1f174.png",
-    "static/media/scroll-1.png": "/WaivezoMinigame.com/static/media/scroll-1.135e1c7d24aef8a9cd61.png",
-    "static/media/sword-1.png": "/WaivezoMinigame.com/static/media/sword-1.47dbfbdd3a1e94165050.png",
-    "static/media/ring-1.png": "/WaivezoMinigame.com/static/media/ring-1.4c376e3f983bd42b39d3.png",
-    "static/media/circle.png": "/WaivezoMinigame.com/static/media/circle.b8fdd379d8ceec76338f.png",
-    "index.html": "/WaivezoMinigame.com/index.html",
-    "main.73f806f5.css.map": "/WaivezoMinigame.com/static/css/main.73f806f5.css.map",
-    "main.bd37fb1c.js.map": "/WaivezoMinigame.com/static/js/main.bd37fb1c.js.map",
-    "453.064f2cbb.chunk.js.map": "/WaivezoMinigame.com/static/js/453.064f2cbb.chunk.js.map"
+    "main.css": "/static/css/main.73f806f5.css",
+    "main.js": "/static/js/main.e28bbcd0.js",
+    "static/js/453.064f2cbb.chunk.js": "/static/js/453.064f2cbb.chunk.js",
+    "static/media/cover.png": "/static/media/cover.b35cfd2810870e019e99.png",
+    "static/media/shield-1.png": "/static/media/shield-1.a961da9569e66174ca3b.png",
+    "static/media/defaultProfile.png": "/static/media/defaultProfile.8973ad91ff3039f96c89.png",
+    "static/media/helmet-1.png": "/static/media/helmet-1.d082cb3c8e66546d8921.png",
+    "static/media/potion-1.png": "/static/media/potion-1.94e34273991220b1f174.png",
+    "static/media/scroll-1.png": "/static/media/scroll-1.135e1c7d24aef8a9cd61.png",
+    "static/media/sword-1.png": "/static/media/sword-1.47dbfbdd3a1e94165050.png",
+    "static/media/ring-1.png": "/static/media/ring-1.4c376e3f983bd42b39d3.png",
+    "static/media/circle.png": "/static/media/circle.b8fdd379d8ceec76338f.png",
+    "index.html": "/index.html",
+    "main.73f806f5.css.map": "/static/css/main.73f806f5.css.map",
+    "main.e28bbcd0.js.map": "/static/js/main.e28bbcd0.js.map",
+    "453.064f2cbb.chunk.js.map": "/static/js/453.064f2cbb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73f806f5.css",
-    "static/js/main.bd37fb1c.js"
+    "static/js/main.e28bbcd0.js"
   ]
 }
