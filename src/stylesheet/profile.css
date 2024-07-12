@@ -1,0 +1,39 @@
+.profile-image-frame {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px auto;
+}
+
+.profile-image {
+    width: 100%;
+    height: auto;
+}
+
+.avatar {
+    position: relative;
+    margin-bottom: 20px;
+  }
+  
+  .avatar-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #007bff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  input[type="file"] {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+    cursor: pointer;
+  }
+

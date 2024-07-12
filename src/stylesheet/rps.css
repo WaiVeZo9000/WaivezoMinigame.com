@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap');
+
+.rps-container {
+    font-family: Raleway, sans-serif;
+    font-size: 0.7em;
+    color: rgb(57, 152, 184);
+}
+
+.heading {
+    font-size: 50px;
+  }
+  
+  .score {
+    height: 20vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .choice {
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .computer-hand {
+    width: 250px;
+  }
+  
+  .user-hand {
+    width: 250px;
+    transform: rotateY(180deg);
+  }
+  
+  .button-div {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+  .button {
+    width: 150px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(59, 59, 138);
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #8f8ebc;
+    transform: scale(1.05);
+}
+
+.button:active {
+    background-color: #8f8ebc;
+    transform: scale(0.95);
+}
+
+    
+  .result {
+    padding: 50px;
+  }
+  

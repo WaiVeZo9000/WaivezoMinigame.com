@@ -1,0 +1,65 @@
+/* SignUpForm.css */
+.signUp {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+}
+
+.signUp .row {
+    margin-bottom: 15px;
+}
+
+.signUp .btn {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.signUp .input-group-text {
+    width: 100px;
+    justify-content: center;
+}
+
+/* LoginForm.css */
+.login {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+}
+
+.login .row {
+    margin-bottom: 15px;
+}
+
+.login .btn {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.login .input-group-text {
+    width: 100px;
+    justify-content: center;
+}
+
+.custom-div {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .custom-p {
+    font-size: 14px;
+    color: #555;
+  }
+
+  label, .error {
+    color: #555;
+    font-size: 14px;
+    margin-left: 0;
+  }
