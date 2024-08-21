@@ -75,6 +75,7 @@ const Home = () => {
     <body>    
         <div className="home-container">
         <h1>Welcome to My Mini Games, {name}</h1>
+        <h1>This a new Changes</h1>
         {isLoading? <p><em>Loading...</em></p>: RenderList(data)}
         </div>
     </body>
