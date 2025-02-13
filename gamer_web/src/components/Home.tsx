@@ -10,7 +10,7 @@ import Star from "./Star";
 
 const Home = () => {
 
-    console.log("hello")
+    // console.log("hello")
     const [data, setData] = useState([]);
     const [isLoading, setIsLoading] = useState<boolean>(false);
     const {name}:any = useParams<{ name: string }>();

@@ -8,7 +8,7 @@ interface Props{
 
 const PrivateRoute:React.FC<Props> = ({element : Component}) => {
 
-    const {isAuthenticated} = useAuth()
+    const {isAuthenticated} = useAuth();
 
     return isAuthenticated ? <Component/> : <Navigate to='/login'/>;
 }
